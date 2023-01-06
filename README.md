@@ -7,8 +7,7 @@ To use the app, simply enter the title of a movie in the search bar and click th
 You can also use the app to browse popular movies by clicking on the "Popular Movies" button. This will display a list of the most popular movies according to the OMDb API.
 
 The app has a responsive design, so it will work on devices of all sizes. It is also fully accessible, with support for screen readers and other assistive technologies.
-
-I hope you enjoy using the Movies project! Let me know if you have any questions or feedback.
+ 
 
 
 
