@@ -9,5 +9,6 @@ You can also use the app to browse popular movies by clicking on the "Popular Mo
 The app has a responsive design, so it will work on devices of all sizes. It is also fully accessible, with support for screen readers and other assistive technologies.
  
 
+![](https://github.com/TekTristan/TekMovies/blob/main/aKmsb4aw2S.gif)
 
 
