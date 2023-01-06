@@ -10,8 +10,5 @@ The app has a responsive design, so it will work on devices of all sizes. It is 
 
 I hope you enjoy using the Movies project! Let me know if you have any questions or feedback.
 
-## Video Walkthrough
 
-Here's a walkthrough of implemented project.
-<img src='http://g.recordit.co/aKmsb4aw2S.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
